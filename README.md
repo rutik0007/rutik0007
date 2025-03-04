@@ -23,7 +23,7 @@
 ## 🌟 **Projects**  
 🧠 ** IQ Test :- https://iq-test-online-mini-project-jmxb.vercel.app/ ** – 
 
-🧠 ** Hospital Appointment Management System :- [https://iq-test-online-mini-project-jmxb.vercel.app/](https://hospital-appointment-management-system-project.vercel.app/) ** – 
+🧠 ** Hospital Appointment Management System :- [https://iq-test-online-mini-project-jmxb.vercel.app/](https://project-hospital-appointment-management-system.vercel.app/) ** – 
 
 
   
